@@ -1,0 +1,10 @@
+CO2                30
+CH4                22
+CH4+CO2            54
+
+CH4+H2S            54
+CO2+H2S            54
+
+H2S                82
+CH4+CO2+H2S       150
+CH4+CO2+H2S+N2     93
